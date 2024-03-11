@@ -21,7 +21,9 @@ author: Maud Hamonic
 
 navbar-links:
   À Propos: "index"
-  Blog: "blog"
+  Articles:
+  - Blog: "blog"
+  - Tags: "tags"
 
 ################
 # --- Logo --- #
